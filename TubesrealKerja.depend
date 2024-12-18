@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1734538899 source:c:\code\codeblock\tubesrealkerja\main.cpp
+	"Header.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1734538693 c:\code\codeblock\tubesrealkerja\header.h
+	<iostream>
+	<cstdlib>
+
+1734538349 source:c:\code\codeblock\tubesrealkerja\source.cpp
+	"Header.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<cctype>
+
