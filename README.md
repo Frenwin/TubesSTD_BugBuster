@@ -39,6 +39,8 @@ Cara penggunaan
 5. Setelah melakukan deletion maka anda bisa melakukan fitur Undo untuk mengembalikan huruf yang sudah di hapus dengan memencet 'u' sebagai Undo pada Editing mode
 6. Dan jika ingin menghilangkan kata yang sudah diundo bisa menggunakan fitur Redo dengan memencet 'r' sebagai redo pada saat Editing Mode
 7. Dan jika ingin kembali lagi ke typing mode tinggal tekan kembali tombol Ctrl+Z untuk masuk ke typing mode
-8. Dan jika ingin mengakhiri text editor bisa dengan memencet 'Esc' 
+8. Dan jika ingin mengakhiri text editor bisa dengan memencet 'Esc'
+
 Link Demo:
+
 https://youtu.be/RFt-QYH9zvU 
